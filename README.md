@@ -15,7 +15,7 @@ All the CSV files has been imported into the Power BI. The loaded data has been 
 
 # DATA VISUALIZATION
 ![DASHBOARD](https://github.com/Premnath1405/Hospital-Dashboard/assets/128468794/a6bd26d9-d751-4860-b2dd-e690e4591936)
-#KEY FINDINGS
+# KEY FINDINGS
 1. The Number of ICU Beds and General beds are lower and the government need to improve the infrastructure in the Hospital beds
 2. The Total number of Primary Health Centres (PHC) in very low compared to CHC.
 # RECOMMENDATIONS
